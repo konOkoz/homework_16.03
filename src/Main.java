@@ -11,7 +11,7 @@ public class Main {
     */
     public static void main(String[] args) {
 
-        System.out.println("We have 3 types of pizza for u 1.Hawaii , 2.Mozzarella , 3.Salami");
+        System.out.println("We have 3 types of pizza for you 1.Hawaii , 2.Mozzarella , 3.Salami");
         System.out.println("Enter the number of the according pizza to order:");
         PizzaFactory.factory();
     }
